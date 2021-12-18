@@ -1,2 +1,2 @@
 # My-Projects
-Contains all projects I have done
+Contains all projects I have done so far
