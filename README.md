@@ -1,2 +1,2 @@
 # My-Projects
-Contains all projects I have done so far
+This repository contains all data analysis projects I have done so far
