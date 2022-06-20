@@ -27,7 +27,7 @@ def get_filters():
         city= input("Error! Would you like to see data for chicago, new York, or washington?").lower()
         if city in CITY_DATA:
             flag = False
-                        
+                       
     flag=True
     month= input("Which month? all, january, february, ... , june?").lower()
     if month in MONTHS:
